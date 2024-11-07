@@ -1,12 +1,10 @@
-# Databricks notebook source
 # MAGIC %md
 # MAGIC # Model Setup
 
 # COMMAND ----------
 
 from huggingface_hub import notebook_login
-#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
-#dapi34e71f182e6bb4f156b0878992f357d3
+
 # Login to Huggingface to get access to the model
 notebook_login()
 
