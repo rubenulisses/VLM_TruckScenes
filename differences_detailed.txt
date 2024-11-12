@@ -1,0 +1,3604 @@
+Token: d08667f00c6245e89a20240a14aafd53
+M: area.highway
+GT: area.parking
+
+Token: 044c648ac12345f1aedf33c9f91cdc5a
+M: season.autumn
+GT: season.summer
+
+Token: 0f869ee9a3cf47c0aeb8e7c47dc23af1
+M: area.city
+GT: area.terminal
+
+Token: 9264a80a707346e79d278547fc44ec5b
+M: area.city
+GT: area.parking
+
+M: season.autumn
+GT: season.summer
+
+Token: ec747ab39ab44e94924541e734e115fe
+M: structure.overpass
+GT: structure.regular
+
+Token: 1b65e64ead2843558266c87a62540acc
+M: weather.overcast
+GT: weather.rain
+
+M: lighting.dark
+GT: lighting.glare
+
+M: structure.tunnel
+GT: structure.regular
+
+M: construction.roadworks
+GT: construction.unchanged
+
+Token: 37f8e26d4e964073be50d6fb4e04af45
+M: weather.overcast
+GT: weather.rain
+
+M: lighting.dark
+GT: lighting.glare
+
+M: structure.tunnel
+GT: structure.underpass
+
+M: construction.roadworks
+GT: construction.unchanged
+
+Token: 325a4d3781aa4642a7eef398856744a1
+M: area.city
+GT: area.highway
+
+M: construction.roadworks
+GT: construction.unchanged
+
+Token: 0c2ba79f27d648b0b170d984dc774e98
+M: weather.overcast
+GT: weather.rain
+
+M: lighting.dark
+GT: lighting.glare
+
+Token: 984086cdc4b14ef699f3635a4f5ff8cd
+M: area.city
+GT: area.highway
+
+M: lighting.dark
+GT: lighting.glare
+
+M: structure.tunnel
+GT: structure.regular
+
+M: construction.roadworks
+GT: construction.unchanged
+
+Token: 6cd748a73e834510b4457d254f628cd4
+M: weather.overcast
+GT: weather.rain
+
+Token: de48341871844bb79176c6e01f16ed8a
+M: area.city
+GT: area.highway
+
+M: lighting.dark
+GT: lighting.glare
+
+M: structure.tunnel
+GT: structure.regular
+
+M: construction.roadworks
+GT: construction.unchanged
+
+Token: 533267314a0f4d58a36e6111083166a4
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: daf499d42bed41d2b0c005ff4e453767
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.overpass
+GT: structure.underpass
+
+Token: b49cd015d2464fc9b270bd12310ecd0f
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: c2d179bda168483d9d2e1de4c455088d
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.overpass
+
+Token: 4e81df97fd624d43a0b030678153106c
+M: area.highway
+GT: area.city
+
+Token: a7464faa8919475eb7d55e34f52f76d5
+M: area.rural
+GT: area.highway
+
+M: structure.regular
+GT: structure.underpass
+
+Token: 2a521faafd6f4ed89d42aa6ed40df686
+M: area.rural
+GT: area.highway
+
+M: structure.regular
+GT: structure.overpass
+
+Token: b1a5d39958334cb1922414438802cd1d
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.overpass
+
+Token: 1439327f024948ed9be2e9f10dd2c904
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 1788cf0cd5a54711986f6cc7fa1f4f5e
+M: weather.overcast
+GT: weather.clear
+
+M: structure.regular
+GT: structure.underpass
+
+Token: 62b66ed980164d68a6274c9e8cbc1651
+M: weather.overcast
+GT: weather.clear
+
+M: structure.tunnel
+GT: structure.underpass
+
+M: construction.roadworks
+GT: construction.unchanged
+
+Token: 731275e2aef0476983e6a6e9bb81ca8d
+M: weather.overcast
+GT: weather.clear
+
+Token: 13588a1f96b841dc8a13e4787a79cf3e
+M: weather.overcast
+GT: weather.clear
+
+Token: 5ac6e61bac1a41578afbbd6cde2325e0
+M: weather.overcast
+GT: weather.clear
+
+M: structure.tunnel
+GT: structure.underpass
+
+M: construction.roadworks
+GT: construction.unchanged
+
+Token: 3742ad2acbe84a96a66f03ee9cb57364
+M: weather.overcast
+GT: weather.clear
+
+M: construction.unchanged
+GT: construction.roadworks
+
+Token: 2e0bdfd45ffc4cf68f6341ebdb458fdb
+M: weather.overcast
+GT: weather.clear
+
+M: construction.unchanged
+GT: construction.roadworks
+
+Token: ca267bf142a54d36ba45e29f82e4a08f
+M: weather.overcast
+GT: weather.clear
+
+Token: 1f2b946b102546979e43b599b9f03684
+M: weather.overcast
+GT: weather.clear
+
+Token: 37355c547904491481e47accc094d567
+M: weather.overcast
+GT: weather.clear
+
+M: structure.regular
+GT: structure.overpass
+
+Token: bbe4c04ec4e34bc3b6776f49a561328b
+M: weather.overcast
+GT: weather.clear
+
+Token: ae00df6e111c4b0681a6b7893f69ab4d
+M: weather.overcast
+GT: weather.clear
+
+Token: f82193eace924a61b0ba500d5905e187
+M: weather.overcast
+GT: weather.clear
+
+Token: e6d838f53fe84e35a9040c130bb5f77d
+M: weather.overcast
+GT: weather.clear
+
+Token: 0a618695cfee487793ab917751f89f3f
+M: weather.overcast
+GT: weather.clear
+
+Token: bb7eb04220da416f97078fc39e60c317
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 3e300a44401f4eeca593a3360714fa91
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.underpass
+
+Token: fe58215686024436b63d30612c7782fb
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.overpass
+GT: structure.regular
+
+Token: 42d266a4cf1a4904aee1f43feebee587
+M: weather.overcast
+GT: weather.rain
+
+M: lighting.dark
+GT: lighting.glare
+
+M: structure.regular
+GT: structure.underpass
+
+Token: 865582f0dfe249eebc67ee45299828a1
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.underpass
+
+Token: c7ec8d152fd248df92b06dba1d5e0238
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 2edd6e9b759a47af9ca94375d8089ad2
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.overpass
+
+Token: 630bfd8f957f4ed7acd83e42d99f49f1
+M: season.autumn
+GT: season.summer
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: bc48c43a022642c492c036ec089c6858
+M: season.autumn
+GT: season.summer
+
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.overpass
+GT: structure.regular
+
+Token: ee27fc483da44f52a071479d43f95df1
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: dab5484636704c2a86e961db0ceb7a7a
+M: weather.overcast
+GT: weather.rain
+
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.underpass
+
+Token: 0f0e9e65b0824c94834e837028e6351a
+M: weather.overcast
+GT: weather.rain
+
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.underpass
+
+Token: 38da1555f2bc4d048498d5e062fbc3cd
+M: weather.overcast
+GT: weather.rain
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: e19b68de2ef2479b85ec3848b2377bb7
+M: weather.overcast
+GT: weather.rain
+
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.underpass
+
+Token: 8455860040c04e60b2fba59001709b9f
+M: weather.overcast
+GT: weather.rain
+
+M: area.highway
+GT: area.rural
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 133bda5bf86a46599ac0db049331d881
+M: weather.overcast
+GT: weather.rain
+
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.overpass
+
+Token: fd86bf2fb21b4ee7841c55d2076f09a9
+M: weather.overcast
+GT: weather.rain
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 81f0a41d0a7a44e0ae8f8ea0ade95fdf
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.bridge
+
+Token: 1bd08a0aca914cdcbcee35ae7b0a917c
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 7dc90070f8b6429f8c0fd172c3323ed8
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: adb46d36bbe94d1681ff3a5084f40776
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 7bca360bd01244d08c0e0c8c9672d502
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 1e4dff2793b1442ea144b32d093e4b84
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.overpass
+
+Token: 89bf298f53ae4cf3a909e1374b4f32c7
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: cf0abdc8237a4b3ead5bd5152fdb5fa8
+M: weather.overcast
+GT: weather.snow
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: ccbb2e5cbf374edfaea3322c247b81df
+M: weather.overcast
+GT: weather.snow
+
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.overpass
+
+Token: b3d1b81a9a514c87900ba9a3ba62f6af
+M: weather.overcast
+GT: weather.snow
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: df19acf975dd496697d452250cbd2286
+M: season.autumn
+GT: season.summer
+
+Token: bb8dc79151f4434fbeea48a089ccb84b
+M: structure.overpass
+GT: structure.regular
+
+Token: b2baee9af0dd44b8b1523063d3cd879a
+M: area.terminal
+GT: area.higterminalhway
+
+M: season.autumn
+GT: season.summer
+
+M: structure.overpass
+GT: structure.regular
+
+Token: 303f1da7d00142eeab56be86ad956c18
+M: structure.overpass
+GT: structure.regular
+
+Token: c7af64312ed74a6090a2eff0b376b1f1
+M: structure.overpass
+GT: structure.regular
+
+Token: 9ab3424b353a44ae86d8d83203386e9a
+M: season.autumn
+GT: season.summer
+
+M: structure.overpass
+GT: structure.regular
+
+Token: e9acca1e58f440dfa32044f1701c81d1
+M: weather.overcast
+GT: weather.snow
+
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.underpass
+
+Token: eb143f1f20e5410d8472999af19faa4e
+M: weather.overcast
+GT: weather.snow
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 0d07f68911d94e08b5c8531b691579b4
+M: weather.overcast
+GT: weather.snow
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 842cd058a25c45559afdcfdba7d4dd1a
+M: weather.overcast
+GT: weather.snow
+
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.overpass
+GT: structure.regular
+
+Token: d71c356a8e834a17b2a6f86d698c330a
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.bridge
+GT: structure.underpass
+
+Token: 3a22ae48231f4502ad29a447fc228a13
+M: area.highway
+GT: area.rural
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 9034b06a8f124bd89e9e754e75aaba83
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: da2cbd2cbd354da0a10ee33a6bc09c09
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 8f15187a583a47e2a4740651c5bd296c
+M: lighting.dark
+GT: lighting.twilight
+
+Token: 8cc5bd4b59994464a4883e6f1ad86984
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.overpass
+
+Token: 60b72310f9444a67a39339b40b300a50
+M: lighting.illuminated
+GT: lighting.twilight
+
+M: structure.regular
+GT: structure.overpass
+
+Token: 35a8dfd12df94daeb322b22b2f08548d
+M: lighting.illuminated
+GT: lighting.twilight
+
+M: structure.regular
+GT: structure.overpass
+
+Token: 11aebe6cde2f47f08fcb339e77d4712f
+M: lighting.dark
+GT: lighting.twilight
+
+M: structure.regular
+GT: structure.overpass
+
+Token: dffb528f004b426b90f2551594ccd6e2
+M: area.rural
+GT: area.residential
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 0c665fadc01446c0a2e2d87b2faa0cf2
+M: weather.clear
+GT: weather.overcast
+
+Token: 2461aa75520f42009536eacdc75ca545
+M: lighting.twilight
+GT: lighting.illuminated
+
+Token: 6774d07010dc43c1bdf21af6de0b7e86
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 8d9e626366b543e4983325eee986ef35
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.bridge
+
+Token: 5face4d17a054e10bd6818a409c028a0
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.underpass
+
+Token: b9f3b2cdfab348ec8c0af6bc1186fb22
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.underpass
+
+Token: b71e2b6ba3fa4279b36bfd4b9720251e
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: ca25388d13a34a13aa060094bbd7b917
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.underpass
+
+Token: 36aff9ffbd714a52b4f9ef961725dcca
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 6791fdbb542c4b3d99b5e1614631a8f5
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 59621f07df544cdc891de05ee51967fd
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.overpass
+
+Token: c9e951b47f264663a96aea253a04cb37
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 9788c0b927c749b389c025c9e767d99c
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.bridge
+
+Token: ac89359209284220b6158cfa4dc987c7
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 53d36a58f51d40ebb88f320663773fa9
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.underpass
+
+M: construction.unchanged
+GT: construction.roadworks
+
+Token: c04ed48bde9c4b229a806ce86e55979f
+M: lighting.dark
+GT: lighting.illuminated
+
+M: construction.unchanged
+GT: construction.roadworks
+
+Token: 6d3c75c0bf8f4589ba4aa2d41f5204a9
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 2833608c0cec49b8bc66f018ac76fdd2
+M: weather.overcast
+GT: weather.rain
+
+Token: 8ef426d93719446fbc1e1139fe5f3e65
+M: weather.overcast
+GT: weather.rain
+
+M: lighting.dark
+GT: lighting.glare
+
+M: structure.regular
+GT: structure.underpass
+
+Token: 63c85562288a4d638f021d02332aeaff
+M: lighting.dark
+GT: lighting.glare
+
+M: structure.regular
+GT: structure.bridge
+
+Token: f34aa2133e054f0ca35430e2d1cf52c5
+M: weather.overcast
+GT: weather.rain
+
+M: lighting.dark
+GT: lighting.glare
+
+Token: 49065d96422f441cad17ef87e2a799f1
+M: weather.overcast
+GT: weather.rain
+
+M: lighting.dark
+GT: lighting.glare
+
+M: structure.tunnel
+GT: structure.regular
+
+M: construction.roadworks
+GT: construction.unchanged
+
+Token: 17da81ac7ba24b4cbc34bcff8dcf3bd3
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.tunnel
+GT: structure.underpass
+
+M: construction.roadworks
+GT: construction.unchanged
+
+Token: 7492f19b32a0439bab2d0372070da44f
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: d71e64dee6cf4db6ae86a7e41bc4c297
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: c9d872e382b7440ca5a995c5597fdcc2
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 0b17de05ec294ec5941a27e378b3f82a
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.bridge
+
+Token: 8dd177c7c16c41c3935523e9dd6f68d8
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 0fbaaf16e1284f7d96681bd7fda30747
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 844b1c169f5c4f779b7ea0b4f872e07d
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.bridge
+GT: structure.underpass
+
+Token: d04c61f454434aba816481fedb5243e8
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.underpass
+
+M: construction.unchanged
+GT: construction.roadworks
+
+Token: fb27a7dbc0034d0ea0f59765f4f89db5
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: b86aba712ba44c00ae621b3b7e6648d4
+M: lighting.dark
+GT: lighting.illuminated
+
+M: construction.unchanged
+GT: construction.roadworks
+
+Token: b38c5fb7a5fd4dcba6aad8bd3f3340de
+M: lighting.dark
+GT: lighting.illuminated
+
+M: construction.unchanged
+GT: construction.roadworks
+
+Token: fb0a3d4e84c74b07ba0997891ed12f0b
+M: lighting.dark
+GT: lighting.illuminated
+
+M: construction.unchanged
+GT: construction.roadworks
+
+Token: 794c21d9a4aa4bfcb437cacbc1e36589
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.underpass
+
+M: construction.unchanged
+GT: construction.roadworks
+
+Token: 9ebc1f5c148244b0ae4bb42b49339186
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.overpass
+GT: structure.regular
+
+M: construction.unchanged
+GT: construction.roadworks
+
+Token: d8473b7144a04be4ab3f7b7d28eccf7b
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.overpass
+GT: structure.regular
+
+M: construction.unchanged
+GT: construction.roadworks
+
+Token: 945c9eaf1aa248298fbfd32578b25833
+M: lighting.dark
+GT: lighting.illuminated
+
+M: construction.unchanged
+GT: construction.roadworks
+
+Token: f6f3fcb1810543f19a2bb472bee49c4e
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.overpass
+GT: structure.regular
+
+Token: ea2c3f00182a46389c971b9f3ca50c93
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.tunnel
+GT: structure.underpass
+
+M: construction.roadworks
+GT: construction.unchanged
+
+Token: 3db3f484864041d6be9ea6f46a11c7ff
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: fa732c90a2af4d28ae50b1d1e71f28f2
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 6a47bf6c5e1c49bd845d866b8147fe1b
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.overpass
+
+M: construction.unchanged
+GT: construction.roadworks
+
+Token: 76abc0c349e54cb9b440a4d903ed873f
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 07ca1593bf444f4fa4b45ef5268506f9
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.underpass
+
+Token: 13f2487ca5244e21ab866c8b66df17ce
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 66d7ad77c2ae434ab8a053b99101a7b9
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.overpass
+
+Token: 49896a5134174978b1b93ddfb8a3ad5d
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: c39547da02ab45ab9794b55ba2a5c1d4
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: ba73a5f2dd51484392e9f73a4e97fa80
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.tunnel
+GT: structure.underpass
+
+Token: 5befd41bc7ce40dfa6b1518730378e58
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.overpass
+GT: structure.regular
+
+Token: 2ab6d1b925a445d6a6154c00a2b5d7fd
+M: season.autumn
+GT: season.summer
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 5a7c494a7adb409fbb008f6eb95b90e9
+M: season.autumn
+GT: season.summer
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 06c82550ca0e4f8d830e749b742e6dfa
+M: weather.overcast
+GT: weather.clear
+
+M: structure.regular
+GT: structure.overpass
+
+Token: 41e76e558b504467b227d89715a1d0d8
+M: weather.overcast
+GT: weather.clear
+
+M: structure.tunnel
+GT: structure.underpass
+
+M: construction.roadworks
+GT: construction.unchanged
+
+Token: f41c3243bf384b20b6308f0c7846dc1e
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.twilight
+
+M: structure.regular
+GT: structure.underpass
+
+Token: a5244a635ebf4583a20be66b1d34cf7e
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.twilight
+
+M: structure.regular
+GT: structure.underpass
+
+Token: 77412a38671a424788b68252b398ad28
+M: weather.overcast
+GT: weather.clear
+
+M: structure.tunnel
+GT: structure.underpass
+
+M: construction.roadworks
+GT: construction.unchanged
+
+Token: e958cead1b82452bae9eef24831f0d89
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.twilight
+
+Token: 6585094a7bb4474d80c32d5e6100db19
+M: weather.overcast
+GT: weather.clear
+
+M: structure.tunnel
+GT: structure.underpass
+
+M: construction.roadworks
+GT: construction.unchanged
+
+Token: 267e5b3e67ae44b5aa798c6d364d5bfc
+M: weather.overcast
+GT: weather.clear
+
+Token: ccf968b3b00e449987f28e9823353140
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.twilight
+
+Token: 259450f823a04036a36b72b87cb26406
+M: weather.overcast
+GT: weather.clear
+
+Token: f53c2287a70d4fd69c35993ae49f075e
+M: weather.overcast
+GT: weather.clear
+
+Token: fb3191aee0354aff96a34d80dd37244e
+M: weather.overcast
+GT: weather.clear
+
+M: structure.tunnel
+GT: structure.underpass
+
+M: construction.roadworks
+GT: construction.unchanged
+
+Token: e488f2e862f04374b86d27a434d79533
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.twilight
+
+Token: 323412322e8441e2bf4edd9c19821036
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.twilight
+
+Token: 6542fc85a79e4802b0b31662b785353e
+M: weather.overcast
+GT: weather.clear
+
+Token: b6395d491a7e4e81acdc6bb40ffc06e0
+M: weather.overcast
+GT: weather.clear
+
+M: area.city
+GT: area.residential
+
+M: lighting.dark
+GT: lighting.twilight
+
+Token: ce9d62c78a3540e29df148d14cc6135d
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.twilight
+
+Token: dcaf8a3a7bf84c14a53915752c54f2ed
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.twilight
+
+M: structure.tunnel
+GT: structure.regular
+
+M: construction.roadworks
+GT: construction.unchanged
+
+Token: e3bfe10bcfec42279a20e4ccc4f2dfa0
+M: weather.overcast
+GT: weather.clear
+
+M: area.city
+GT: area.rural
+
+Token: 6102ad0cd88f4feabf0000b3fe91812c
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.overpass
+
+Token: a88c39761a3a4df09655209e2f71ebd6
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 31f27eb697e64084929eb073cc4b2692
+M: weather.overcast
+GT: weather.clear
+
+M: area.highway
+GT: area.residential
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: ebad6e1d8a3040a5b1de8eb191caaa2e
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.underpass
+
+Token: 889f6ef6fecb48c194b3437d41082cb6
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 1708f7288b7f4cc0ad00c3e7ee85db4c
+M: area.city
+GT: area.residential
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 7ea8fbdcce294bc689950691f530d896
+M: area.rural
+GT: area.other_area
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 1e8eb556d4bd4111b61445fb35951173
+M: weather.overcast
+GT: weather.rain
+
+M: lighting.dark
+GT: lighting.glare
+
+Token: 875ae02579a34c0e9ed2d6238ba61b6c
+M: weather.overcast
+GT: weather.rain
+
+M: lighting.dark
+GT: lighting.glare
+
+Token: ecc4d95570284495b8770546ff390b26
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.overpass
+
+Token: 1467e24cd27b483bb7e15b24ba3b268e
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.overpass
+
+Token: c4615107ea114f7db5686c6f850d2a69
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: b6f34a28563a4acb9b12575255f25975
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 3ea1ab7baf1f4dbc8102a0d74638d7b4
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 7a9a42645a004dd7a0164f10a72a30e0
+M: structure.regular
+GT: structure.overpass
+
+Token: 58e67c946c704d58a5b9eb0796803248
+M: structure.regular
+GT: structure.bridge
+
+Token: 61357e8c3f6a4d7d80e2fbac00f7e4c2
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: db8ffa7028704c57940bfaa1f1859580
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.underpass
+
+Token: bfb82fea3759455982ef741f5304dc31
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: ae6f746dcd7c444596213d0652db8daf
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 32697e1c361a4d5da43f0613b1a860b9
+M: weather.overcast
+GT: weather.clear
+
+M: daytime.noon
+GT: daytime.evening
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 5a6c64f578ed48ce90daabcc779cacea
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 2fb0ce9621ef404cba4fe85e3ccb6bf7
+M: area.rural
+GT: area.residential
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: d034a3ca54b34b4b8d4f45cd8fcab16e
+M: area.city
+GT: area.residential
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 2a989877ab614b38a0104e0236de21d0
+M: area.highway
+GT: area.rural
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 6a53ee9fd6a0438f9814e9cc3f8d4ddc
+M: structure.regular
+GT: structure.overpass
+
+Token: e145274f78b94e37bb046f5fb46e6084
+M: structure.regular
+GT: structure.underpass
+
+Token: 6932bcac35b7422f8f46a3076844841a
+M: structure.regular
+GT: structure.underpass
+
+Token: 8c0127d2715942bb98f68dcc8e75c9ab
+M: structure.regular
+GT: structure.underpass
+
+Token: a7965730aec74cabab0533099506a8ba
+M: structure.regular
+GT: structure.underpass
+
+Token: 10d746cb037c4ee6a697e6fab327548f
+M: structure.regular
+GT: structure.underpass
+
+Token: cc4a7e0307d74ad5a4328481eda7b45e
+M: structure.regular
+GT: structure.underpass
+
+Token: 2349224c7621411a9b0b6d73af151da3
+M: structure.regular
+GT: structure.overpass
+
+Token: e1521b93d0be4ad6880bf45b8554a8fd
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.overpass
+GT: structure.regular
+
+Token: 0be0c29709ac4aca8eb2327d4eae6bd1
+M: season.autumn
+GT: season.summer
+
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.overpass
+GT: structure.regular
+
+Token: bd42e604f53d417ba7fa7a87571dade9
+M: season.autumn
+GT: season.summer
+
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.overpass
+GT: structure.regular
+
+Token: 9fb76bae00124c85aaf4d6d0e4dbf194
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.overpass
+GT: structure.regular
+
+Token: c5c240b83773423badaa43dd4adb7ec0
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 376cb123312e4182aaa5254868d8dafc
+M: area.city
+GT: area.residential
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: da28c7f476454def949ff310edea20cf
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 018a60086f5e441fb09f476e55948b72
+M: structure.regular
+GT: structure.underpass
+
+Token: 665324cc3e0c4cb5b8e33df658b47f1a
+M: structure.regular
+GT: structure.underpass
+
+Token: febd2ce35e194ff6a4573dbef0ab3336
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.bridge
+
+Token: 0f71ba062e3348e2ac15b2c4883a28ec
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: ebc5e9f0cdf04830b8cdfdb165fa11ee
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 8b7e48c15e504f54ae88531a01f8f72b
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 5d3bf850df1b4c8f8cf1306baa8a95fd
+M: structure.regular
+GT: structure.bridge
+
+Token: af6b3f6dfc2f4107a737de3cb6b1941a
+M: structure.regular
+GT: structure.overpass
+
+Token: cb394c09b6c94fa988314884139359b7
+M: structure.regular
+GT: structure.bridge
+
+Token: b79c5ef78d70451eac8bdbc3c2421194
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 503653dd16cf4d8a80f6e10d2eb0e9e5
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 73252e583cdb4cebb8398b72e288be6d
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: b41f15d6eb8b4505ad1127b628acc000
+M: weather.clear
+GT: weather.overcast
+
+M: structure.regular
+GT: structure.overpass
+
+Token: 69cc5ad03af04fa3ab32b161832370be
+M: structure.bridge
+GT: structure.underpass
+
+Token: 0c96d91d9894417e8c58f51e8b23a2b6
+M: weather.overcast
+GT: weather.other_weather
+
+M: area.tunnel
+GT: area.highway
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 8f00f944b8824c948ebe37f55785075b
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 17156432133a43aaa77c53a5a4a66474
+M: weather.overcast
+GT: weather.clear
+
+M: area.city
+GT: area.residential
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 028a50a9c50945a29066d6943f8feb96
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 536cefe40a3c42fd92da4d39d5b366f0
+M: weather.clear
+GT: weather.overcast
+
+M: structure.tunnel
+GT: structure.underpass
+
+Token: 4e34f81d2670455aa5f9bcbb2b9cfbdf
+M: season.autumn
+GT: season.summer
+
+Token: 32a328b828584729bf3a722a1fd605dc
+M: area.city
+GT: area.terminal
+
+Token: 4e89482b8da248a4981b8ed0d1e2ac43
+M: structure.overpass
+GT: structure.regular
+
+Token: 27f01dfe4f0f4f2ba823f45d72c59927
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 7f91ff65592d462e8fb8d2f1329244fa
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.overpass
+GT: structure.underpass
+
+Token: d220b9680caf41928029fd3a2204c0e6
+M: weather.overcast
+GT: weather.fog
+
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.tunnel
+GT: structure.underpass
+
+M: construction.roadworks
+GT: construction.unchanged
+
+Token: 3cf5057fa53346aabb01fa2ad30f2d2b
+M: weather.overcast
+GT: weather.fog
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 9170079f3c4b48bab80f5f053fb74d10
+M: weather.overcast
+GT: weather.fog
+
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.bridge
+GT: structure.underpass
+
+Token: 76f4d89ae84b473cb1be3b3e4e80856d
+M: weather.overcast
+GT: weather.fog
+
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.bridge
+
+Token: 432cc9ed66474f868aafc94d752a3815
+M: weather.overcast
+GT: weather.fog
+
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.underpass
+
+Token: 1045fb16ceea4589bd9617faa73f9892
+M: weather.overcast
+GT: weather.fog
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: ecc66ce2d77947b3916372795d283de7
+M: weather.overcast
+GT: weather.other_weather
+
+M: lighting.dark
+GT: lighting.twilight
+
+M: structure.tunnel
+GT: structure.underpass
+
+M: construction.roadworks
+GT: construction.unchanged
+
+Token: ac15c82d0eeb46fca1ef45c2d627050b
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.twilight
+
+M: structure.tunnel
+GT: structure.underpass
+
+M: construction.roadworks
+GT: construction.unchanged
+
+Token: 380d47c9eaa64234b75e12ddaf84a3e2
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 8bb076de824e4fa7a4e2a5ce65baf9ee
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.underpass
+
+Token: 2955eebd9fc8448bb50d5d1dad1e0ab5
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.twilight
+
+Token: 88e8a1cef14944f89e6e2422cb0dc3de
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.bridge
+GT: structure.regular
+
+Token: 2961c175727e487da08b0ed31ab05aed
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.underpass
+
+Token: f5441c7f51c94bc8aa6229a5b2167460
+M: area.rural
+GT: area.terminal
+
+M: season.autumn
+GT: season.summer
+
+Token: 2d64f7504f8549068ac8a997b507ef79
+M: season.autumn
+GT: season.summer
+
+Token: 51c56c7100164c8396b26672ac0c00c1
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.overpass
+
+Token: 2291163eeea3426db7322e364afbbda0
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.underpass
+
+Token: 5871eb412c964902928b3f6ec186e590
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: d72d1ac796d14a919b1af4851ef36325
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.underpass
+
+Token: 0f0bccbbae8e48ecaec486d4b57f0a37
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.overpass
+
+Token: fe0d4875861c462d801aaddb3a560c77
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.underpass
+
+Token: 428d9e454c944ae08a75e73c7bd6109d
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: cc75e0a0e474465a9e646f8677186cee
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.bridge
+
+Token: 099830034807401f9dfd4277f0429ede
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: e2525b5f68864901b951bc63235c4291
+M: area.rural
+GT: area.residential
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: c85c80dceb464e2daadf12e3cc04a8d1
+M: weather.overcast
+GT: weather.snow
+
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.underpass
+
+Token: c88d3213a8704fe8b8c0f2c32fcd62be
+M: structure.overpass
+GT: structure.regular
+
+Token: b1d71492493148d2a4dbaf467d2ab539
+M: structure.overpass
+GT: structure.regular
+
+Token: 71d5664f43d54c90a8ce52839c1a8f04
+M: area.highway
+GT: area.rural
+
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.bridge
+GT: structure.underpass
+
+Token: 10fae75ee6294029ab4529929d84440b
+M: area.highway
+GT: area.rural
+
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.overpass
+
+Token: 5a99671475e44fd5ad086068257c43a5
+M: area.rural
+GT: area.highway
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 2c2dcd39350740148138b7deb3cc88fe
+M: area.rural
+GT: area.highway
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 28ba0b16dc0b4f13ad32a47b2f8e5133
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 8c46a48c27ae49d8b041f87777ae5a0a
+M: area.rural
+GT: area.highway
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: db5fbc77708e451ba0632d1e65a6e605
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.bridge
+
+Token: 3cf363f495e045b8adf7e80889dab389
+M: area.rural
+GT: area.highway
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 7cc2f805c38b4651b81b6cc9194102ee
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.underpass
+
+Token: 60d25c68b9bd46dfa3f52f74b53e75da
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: a04e6d2081e24f06949c024af5af2720
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.underpass
+
+Token: a79418333e2a4a28a26518df2fb24c65
+M: area.city
+GT: area.residential
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: fd63f3367ed04e9f9dc165365c87eae3
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: e8187ff92c844d12bc4771072a89eb34
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 4d7535c7b6cd432e8bf132475986beca
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.underpass
+
+Token: 5e3676d7055c4dfda022e6409875fbaf
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 39c07a8289a8413380a995021b4667aa
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.underpass
+
+Token: 1c2a41dcd04549868dd2dd142f76747e
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 39036a48e4ad4ef48dd396a29c35464e
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: a76f281be34e4d24923dbb90f4af84c7
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 961dd12b3b6948c5bf0daaf020473567
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: e4843bd5b3c5476d8f9c15a0dedbf045
+M: area.highway
+GT: area.rural
+
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.bridge
+
+Token: 06a33f51db514212b925a72df6271293
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: d2475a9766394098ad3bdfe923d5f401
+M: area.highway
+GT: area.rural
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: d4a36db2f4d24036ae193cd3207dbf83
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: fbf88fbd3ad5411f8b08251acb27f1e0
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 9fbe53cf6c8a432e8131691c685521a0
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.twilight
+
+M: structure.tunnel
+GT: structure.underpass
+
+M: construction.roadworks
+GT: construction.unchanged
+
+Token: a4c7a781c4dd49479fe8c56a4259b548
+M: weather.overcast
+GT: weather.rain
+
+M: lighting.dark
+GT: lighting.glare
+
+Token: e3e7a0c757b548c1a295f9b19a956610
+M: weather.overcast
+GT: weather.rain
+
+M: area.terminal
+GT: area.city
+
+M: lighting.dark
+GT: lighting.glare
+
+Token: 23ecaec3d7734468abb437206e46f424
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.twilight
+
+Token: c9e95cb1c270473598f4bd10205fc7ee
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.twilight
+
+M: structure.regular
+GT: structure.underpass
+
+Token: a431cc88f09b42b98204c70deeeaa660
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.twilight
+
+M: structure.regular
+GT: structure.bridge
+
+Token: a74a2f6aaeda48fb9196a37ecc5a0f7d
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.twilight
+
+M: structure.regular
+GT: structure.overpass
+
+Token: 4ee3a0adb40b4c5295891ef5275bef64
+M: weather.overcast
+GT: weather.clear
+
+Token: 2752860d77404e238740c665de776dfa
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.twilight
+
+Token: 9bb46c4d59ad42ad8f67f5306213c255
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.twilight
+
+Token: abe81d5126a94011a44d960a94b4b908
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.twilight
+
+M: structure.regular
+GT: structure.underpass
+
+Token: 6a44f4da00584f21b3e4e71860e4853e
+M: structure.regular
+GT: structure.underpass
+
+Token: 7188b3af7f2d4dd686580bc12e8fb9b1
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 8bcaaec54e6342f4996dbaeb1fd923a8
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: b1a36578d7b34854af589c9f580ecfc7
+M: area.highway
+GT: area.rural
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: c31c14c89d304ee3964e25c216c2255a
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 43fd7a5e728f461b83064344aedb7731
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.overpass
+
+Token: 3a9b36f0a02d45b38b9f2516b5121ff3
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: fd5476115e5044a0a16da62f6f23bdb4
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.overpass
+
+Token: 63fe44fc70824d4499228e8d293d0e91
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.underpass
+
+Token: 398d94d50baf4e529bf235e27619fae8
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 2d7f4bc4b05a45bbb7a467d05fcb6e43
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.bridge
+
+Token: e8f1680a8cc543c1b7caf8fcaa590eed
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.twilight
+
+Token: 9c7da0340a3d412b89f8c1c5e93fea86
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.twilight
+
+Token: 78c0ef5ffce2476cb408501215e80732
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.twilight
+
+Token: b4225721431749d1b2ffb09ad40531d1
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 8532d677be904bd4bf1cd6b23853199c
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 2003e9c0a61548a18f75ba21ee119197
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.twilight
+
+Token: 5492b1500c964e4f99e414cfc09df17a
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: eb1a76a76afe4dcf8def4a9d169d4f58
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 763c76e468174b35a2d828ff4b117883
+M: weather.clear
+GT: weather.overcast
+
+Token: c3b6622ab20447d39f89cd0870dae72b
+M: weather.clear
+GT: weather.overcast
+
+Token: eaba4b4e0dc445e09b7af2cfa2d79247
+M: weather.clear
+GT: weather.overcast
+
+M: area.city
+GT: area.rural
+
+Token: a4400949bb9f45d48e00cff821773bfd
+M: structure.regular
+GT: structure.overpass
+
+Token: c793b3ec5140494d928558f9adb4ab83
+M: structure.regular
+GT: structure.underpass
+
+Token: 4f7db0c8462146db84fb874e30daae26
+M: lighting.illuminated
+GT: lighting.other_lighting
+
+Token: bf1c77832085462e89f15214c56bf815
+M: weather.overcast
+GT: weather.clear
+
+M: daytime.noon
+GT: daytime.night
+
+M: lighting.dark
+GT: lighting.twilight
+
+Token: d61feca5204041fca29bd1569d08b349
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.twilight
+
+Token: af20c17d63d84dd984b954e69aad8d82
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 749909f0d1c343d785d5c68428d152ae
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.twilight
+
+Token: 28a3b3e0a32b4f149f815617ff0834a2
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.twilight
+
+Token: 184ccfc136014ffeaf5a6a99be9455a7
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.twilight
+
+M: structure.regular
+GT: structure.underpass
+
+Token: 04c15cb71d4e49939f73ed22654c0a8b
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.twilight
+
+Token: 307e2846a3014b9db0cc915e462317e5
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.twilight
+
+Token: c8b39c9faff14f72a748f45dd8500469
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.twilight
+
+M: structure.regular
+GT: structure.overpass
+
+Token: 09eebd38c94b48a79e80fdc2bb587a6c
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.twilight
+
+Token: 92982b5f15a9441985c87184599b6876
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.twilight
+
+Token: 2f60705136a348a0aad2283d38f33edd
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: b5a766bcdf0b4c3792c10dad28365524
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.twilight
+
+Token: b556aaeaad1843ba9138354334a58f5b
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.underpass
+
+Token: caf468ebb1524e77a0df270bcdf3df57
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 38d4ba33fce94499be34f32d245113ed
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.twilight
+
+Token: 6e1f6a8938ed44b6926eb827684e5f82
+M: structure.regular
+GT: structure.overpass
+
+Token: d524527bfa2845c5bfe53952a5f50da5
+M: lighting.twilight
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.bridge
+
+Token: 3df7e3239c734782879b1b89a1f82ee0
+M: weather.clear
+GT: weather.overcast
+
+M: area.highway
+GT: area.rural
+
+M: structure.regular
+GT: structure.bridge
+
+Token: f5fd96f1b740447da7c21306d7b6ac3e
+M: lighting.illuminated
+GT: lighting.twilight
+
+Token: 564c8670170642f996cc63694f3116ab
+M: weather.overcast
+GT: weather.hail
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 77841a89b5144de9ab443ab10a0bb509
+M: weather.overcast
+GT: weather.snow
+
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.underpass
+
+Token: 4111a2cc0f2b428894e62494d864f7af
+M: weather.overcast
+GT: weather.hail
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 11ff73dd0306456bb40ae02c934ca7a8
+M: weather.overcast
+GT: weather.snow
+
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.tunnel
+GT: structure.underpass
+
+M: construction.roadworks
+GT: construction.unchanged
+
+Token: 4b0f4871e154472084b16b1734d994dd
+M: weather.overcast
+GT: weather.snow
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: c6853ab1934d49558009a315787ad8a7
+M: weather.overcast
+GT: weather.snow
+
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.tunnel
+GT: structure.underpass
+
+M: construction.roadworks
+GT: construction.unchanged
+
+Token: 3a57a78b5fe444d2b3482e945c9367ee
+M: weather.overcast
+GT: weather.snow
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 0e4710733a0a41b8a9f33008cd83f9dc
+M: area.rural
+GT: area.highway
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: a2f3f3dd89e243ad813fe164d3799d05
+M: weather.overcast
+GT: weather.snow
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 38451142f20344ed85489f3f63e7f658
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: c56f500c2df64f01ba0abc163e528edb
+M: weather.overcast
+GT: weather.snow
+
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.overpass
+GT: structure.underpass
+
+Token: f4f6709106634f908611c01e0562ebf6
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 212053f477ae4ae1aef685bbe1e38b28
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: d0b02e67e97a435192bf43f7bb0f902c
+M: weather.rain
+GT: weather.snow
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 76dc9bb6edf24049af72ba146af55c43
+M: weather.overcast
+GT: weather.hail
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 1f76d6a9b2544b68ab0b31e35417cc3f
+M: weather.overcast
+GT: weather.snow
+
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.overpass
+
+Token: 33294c19b68641ddbd289e63c212826c
+M: weather.overcast
+GT: weather.hail
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 7dd818be5c994dae99b0dd00808c1c82
+M: lighting.dark
+GT: lighting.glare
+
+M: structure.regular
+GT: structure.underpass
+
+M: construction.roadworks
+GT: construction.unchanged
+
+Token: 97c1487634cb4df3b5bff3f766b273db
+M: lighting.dark
+GT: lighting.glare
+
+M: structure.bridge
+GT: structure.underpass
+
+M: construction.roadworks
+GT: construction.unchanged
+
+Token: 46fe246b9cc84d378342692f362f5c49
+M: lighting.dark
+GT: lighting.glare
+
+Token: 4469917d1b574f9fb0dbd0f62a7e300f
+M: weather.overcast
+GT: weather.rain
+
+M: lighting.dark
+GT: lighting.illuminated
+
+M: construction.roadworks
+GT: construction.unchanged
+
+Token: 80cba02f00eb426082ef10da3e07ddb4
+M: weather.overcast
+GT: weather.other_weather
+
+M: area.city
+GT: area.highway
+
+M: lighting.dark
+GT: lighting.glare
+
+M: construction.roadworks
+GT: construction.unchanged
+
+Token: 9642e9ff637c46e4980acef3e1ea88be
+M: weather.overcast
+GT: weather.rain
+
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.bridge
+
+Token: 14320d9088454984b0263ee5acbdfa6f
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.tunnel
+GT: structure.regular
+
+M: construction.roadworks
+GT: construction.unchanged
+
+Token: 80ddbbb8090b4dcbb115747ff453dc46
+M: weather.overcast
+GT: weather.rain
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 78f95d649349406ab7255d4b218b94c1
+M: area.city
+GT: area.highway
+
+M: lighting.dark
+GT: lighting.glare
+
+M: structure.tunnel
+GT: structure.underpass
+
+M: construction.roadworks
+GT: construction.unchanged
+
+Token: b13b6eb5c4bf4479a631372af53baf28
+M: lighting.dark
+GT: lighting.illuminated
+
+M: construction.roadworks
+GT: construction.unchanged
+
+Token: c410894ce8374a4f93a4fabff8dfb52c
+M: lighting.dark
+GT: lighting.illuminated
+
+M: construction.roadworks
+GT: construction.unchanged
+
+Token: bfe5157ddf0a47648a60d3e2737e8868
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.underpass
+
+M: construction.roadworks
+GT: construction.unchanged
+
+Token: 97dc9f0d34a246b4bb4af3e49a0d2c82
+M: lighting.dark
+GT: lighting.glare
+
+Token: 87c3e6fe3bc64557b99d072473f760d5
+M: structure.regular
+GT: structure.underpass
+
+Token: d50935f1e03240cb9fb7088440d3e8d3
+M: structure.regular
+GT: structure.underpass
+
+Token: 08c6073ff6c14d5faf19dcce49cc1df4
+M: structure.regular
+GT: structure.overpass
+
+Token: 58f96e8451c54332868c7ee8c297a279
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 5ceb1e71d96a4a3799cbb4cd1c90c213
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.overpass
+
+Token: a8e2864f7d03433bbb797de4914f3d97
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 64b5e4a1efec42d1844eca178a7fc89a
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.overpass
+
+Token: 68423a39bf1d4c6e9f434a2dc3ff0e1d
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 6f2961aeba264c7da4ae462185ad7958
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: ddc4017f31634c7bb5fc598fbf0f0870
+M: structure.regular
+GT: structure.underpass
+
+Token: 43cb3a0a038f48aab64623178dc09b55
+M: structure.regular
+GT: structure.underpass
+
+Token: 2a34d27fa2f146e89f3efde157929daf
+M: structure.regular
+GT: structure.underpass
+
+Token: b871b274e01544b9bf78081ab57fad97
+M: weather.overcast
+GT: weather.clear
+
+M: area.rural
+GT: area.highway
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: caa456e4b887497d9dd0d6a4c7b8ee35
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.bridge
+
+Token: 43cc6220d9834fc3a8eb80cf1cd01b5f
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.bridge
+
+Token: 18cce3d21123408b98cc3bf09b759071
+M: area.highway
+GT: area.residential
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 518e0c0935d94f8bab85ed72250616b9
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.bridge
+
+Token: edce208b917d4310afbe5ae043e9ecab
+M: area.rural
+GT: area.highway
+
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.overpass
+
+Token: 7b54b93960484fc8977b1c472f751a86
+M: area.city
+GT: area.terminal
+
+Token: 8bc0d4e7a0ef4037a09ccc6abb9d194e
+M: weather.overcast
+GT: weather.fog
+
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.underpass
+
+Token: 74ed6533f06b499f8680ee2a6e207d08
+M: weather.overcast
+GT: weather.fog
+
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.bridge
+
+Token: 1375e471a4e2425e804bcaf6e54bde5e
+M: weather.overcast
+GT: weather.fog
+
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.underpass
+
+Token: 43f7586a1ec04635802b30d351a7bc2b
+M: weather.overcast
+GT: weather.fog
+
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.bridge
+GT: structure.regular
+
+Token: bfa953cef53146069dd6350179c775bc
+M: weather.overcast
+GT: weather.fog
+
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.tunnel
+GT: structure.underpass
+
+Token: 2aaf3854cdee45f0a27d1da41b399509
+M: weather.overcast
+GT: weather.fog
+
+M: lighting.dark
+GT: lighting.illuminated
+
+M: construction.unchanged
+GT: construction.roadworks
+
+Token: b55205438ea34d6c90f95ddecba88eae
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 83776fe8da75449aa61ca89d8b12c3ab
+M: area.rural
+GT: area.highway
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: e04d405e00214586b3af939eb1feb281
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.bridge
+
+Token: 07a60b99d70f440a849323737c2f27b0
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 709dd3306700483ba41e30ee4711c627
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: ef18da8c1fc044358fb82c326544db63
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: da00020b2551490c850cb23bcce87f91
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.underpass
+
+Token: 2f06bee709474213a2df1ea4d611effd
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.bridge
+
+Token: 580754ee428f43d887b2cfbe47fb75eb
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.overpass
+GT: structure.underpass
+
+Token: a371eb36c74a426da0ccd75477b75f13
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: fa323a5494ed48eaa9227ab5490ab79a
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 952bb0d422cb4cb7ad8f215c7452ff6a
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: d149f8b6b8794e6bb1a0981fa4820886
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.overpass
+
+Token: 05e9a973df154ce4929fb93715d2563e
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: d0f3f252d06e41c4b1aed1fe78782580
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 338ea53ffd9b4843814ad35cbc6a646a
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.bridge
+GT: structure.regular
+
+Token: 99156b79eba941b5aea754409c9d1eb9
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: d226dc2bcf2c49e7bae5b8c84e3f8916
+M: area.highway
+GT: area.terminal
+
+Token: 8830556a50964916a122d232cbc748d8
+M: area.terminal
+GT: area.highway
+
+Token: 1e3131ba681749d38f78bae1fe79a38b
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.bridge
+
+Token: 8c8b52b8a321469c85cfdf07d2030857
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.underpass
+
+Token: 5c0e0fd0159a43ae83dfed7113a7e04e
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.overpass
+
+Token: 7edd1d32b85b475aa0239d6b0de40e63
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 19b5e4db09bd4554834e90789581cffe
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 412bea6c97db44e2b843e4bd48c46b52
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 863a3ce2e9f84ed4ab0c39c8921661e4
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.tunnel
+GT: structure.underpass
+
+Token: 3d1eff85b12a407b8c18b1285df31690
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: b0769a8bf3b84caa8a43c842a6432ebe
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.bridge
+GT: structure.overpass
+
+M: construction.unchanged
+GT: construction.roadworks
+
+Token: 79c89cfc28114ce3bad6bf944c3a9d4b
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.overpass
+
+M: construction.unchanged
+GT: construction.roadworks
+
+Token: cd29d42206cd430ca45335b8e28f5c41
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 239a3129e8bf432db11c0456af58d1c1
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.overpass
+
+Token: fbf11c4e44fd44ebb10d7ecddc10d5ca
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 734d0bc8d0f34554ae63f6dcb4965973
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 8318e0c034c34332aed06610f79f9b32
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 8ee1bf001bbf49099f56e1c571d2053e
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 9626ad468eb74bca9b7a0b01d056ea8d
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.underpass
+
+Token: 49951145a72143c29c7151085b863a56
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 9d1180d52b6a46328063042b8fb325de
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 99cc5cc802c04c94a58bb51541a5a26c
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: dc9628609c474a6c9c4e2ee7e66811a4
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 1243904df8934a6cb4b2dce1cc56954b
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.overpass
+
+Token: 16189c9a128042a3a44b08b1d27117ef
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.bridge
+GT: structure.regular
+
+Token: 4449a28659304eb28e3a7ea265c6b279
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: eae9f57c086f487086e1da92e95f15de
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.underpass
+
+Token: d8fc9cb7bb314b9d9eb5ec1332ce6e13
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.underpass
+
+Token: e4f53484404f4aef8a5463c4aceaa7c8
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.underpass
+
+Token: a89b71e81b444a5ebb841a301d951f94
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 9399dae5c9e34d99837104a600f67cc0
+M: structure.overpass
+GT: structure.regular
+
+Token: 92e1c01b71b14d49bf149a2a5fb90f1f
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.underpass
+
+Token: 6a2ad3e3e14e460897430811321e04c1
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 4d93a179db14457880ef1dca280e5970
+M: lighting.dark
+GT: lighting.illuminated
+
+M: construction.unchanged
+GT: construction.roadworks
+
+Token: 5d761c7963e14da5b9cfb9f9e2e69275
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.underpass
+
+Token: 5075d01f7432494c9498435c9a8be080
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: bd4e9f5f11144d21a344377978ae7a80
+M: daytime.morning
+GT: daytime.noon
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 5c34f9d8fbae43279ece691d9d27a559
+M: area.highway
+GT: area.rural
+
+M: daytime.morning
+GT: daytime.noon
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 74fedbe54a6149d6b5100971f8ad59a2
+M: daytime.morning
+GT: daytime.noon
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: eba9627378a84ba6899e900f5d79b693
+M: daytime.morning
+GT: daytime.noon
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 95ed1e74fe6141c09b4e0828798a4991
+M: daytime.morning
+GT: daytime.noon
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: c26c038324a640d18ae0fcdba61120e5
+M: daytime.morning
+GT: daytime.noon
+
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.overpass
+
+Token: bc99465256e04bd0befcdc14cbc1ecb3
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 56ef7cf702cf48fd9f52fd66480b10ed
+M: daytime.morning
+GT: daytime.noon
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: c9211a47c0f244febcc588cdda8b24f2
+M: weather.overcast
+GT: weather.clear
+
+M: structure.bridge
+GT: structure.regular
+
+Token: f6751179a4ac4157a97b1a85bd8ae6d9
+M: weather.overcast
+GT: weather.clear
+
+Token: 01f937ce4860435d986e167bbfd975be
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.twilight
+
+Token: 937942010bac476489c05238a9b12183
+M: weather.overcast
+GT: weather.clear
+
+M: structure.regular
+GT: structure.underpass
+
+M: construction.roadworks
+GT: construction.unchanged
+
+Token: e43e30a4226c4e37811d0d3d51582c19
+M: weather.overcast
+GT: weather.clear
+
+M: structure.regular
+GT: structure.underpass
+
+Token: 943db81c3993400dbd62a92ec9fec0b1
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.twilight
+
+M: structure.regular
+GT: structure.overpass
+
+Token: f601091dd4024202952f6afab88eceb9
+M: weather.overcast
+GT: weather.clear
+
+M: structure.bridge
+GT: structure.overpass
+
+M: construction.unchanged
+GT: construction.roadworks
+
+Token: 485c07077a724505b33bad65ee25992e
+M: weather.overcast
+GT: weather.clear
+
+M: structure.regular
+GT: structure.overpass
+
+Token: 20d2452f6cbf4a8d800c0fdf607ca3e1
+M: weather.overcast
+GT: weather.clear
+
+M: structure.regular
+GT: structure.overpass
+
+Token: 499e076df06b4c99aa945fc9c2f33b76
+M: weather.clear
+GT: weather.overcast
+
+Token: a736c982c56f4f09b03a2d0b4033b47e
+M: season.autumn
+GT: season.summer
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: b3489db57b0142b1b2220c2973b5dc3c
+M: weather.overcast
+GT: weather.rain
+
+M: season.autumn
+GT: season.summer
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 79f008ec5140419f836fcc4b5511a18c
+M: weather.overcast
+GT: weather.rain
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: c413fd20e5414f7b9364e22711aef1f2
+M: area.city
+GT: area.terminal
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 37b80163c06b487e85bc51549e698de2
+M: structure.regular
+GT: structure.underpass
+
+Token: 047db95f31424f218e3ec886a154fa0b
+M: structure.regular
+GT: structure.underpass
+
+Token: 77a954e685904205bcd592f0f81655cd
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 7dedbc9d6739401387b9811ab9e9d44a
+M: area.terminal
+GT: area.parking
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 718ea747e2e34dfd8650dce4b5e5efe7
+M: daytime.morning
+GT: daytime.noon
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 4a5df27f4fff4310a8e810375d13a070
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: a813a0ab1e8c42ffac99478eed36ffff
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.illuminated
+
+M: construction.unchanged
+GT: construction.roadworks
+
+Token: b81b7063339340e08246712e4e3c2504
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.bridge
+GT: structure.underpass
+
+Token: 23cdea4652a14fe9a81230e989630794
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: cd6ea325dad7433d83e5f1ccca22798a
+M: weather.overcast
+GT: weather.rain
+
+M: lighting.dark
+GT: lighting.glare
+
+Token: 169ab1f3024f4e809a09acc21b28bcc4
+M: weather.overcast
+GT: weather.rain
+
+M: lighting.dark
+GT: lighting.illuminated
+
+M: construction.roadworks
+GT: construction.unchanged
+
+Token: 3256fc83aae04efba7e468bdb2aa2785
+M: weather.overcast
+GT: weather.rain
+
+M: lighting.dark
+GT: lighting.glare
+
+M: construction.roadworks
+GT: construction.unchanged
+
+Token: 3302e216f50447e5a3a71fd6054aee53
+M: weather.overcast
+GT: weather.rain
+
+M: lighting.dark
+GT: lighting.glare
+
+M: structure.regular
+GT: structure.overpass
+
+Token: 6710e65b983c45e7a271187a7c8841be
+M: weather.overcast
+GT: weather.rain
+
+M: lighting.dark
+GT: lighting.glare
+
+Token: bb97aa5e07ee4ba7a9906098e7dae2c0
+M: structure.tunnel
+GT: structure.underpass
+
+M: construction.roadworks
+GT: construction.unchanged
+
+Token: 84afe50b092a4752ac2aa047a0c85300
+M: weather.overcast
+GT: weather.rain
+
+M: lighting.dark
+GT: lighting.glare
+
+Token: d4b5ab8edd854a669349be99c269d9b3
+M: weather.overcast
+GT: weather.rain
+
+M: lighting.dark
+GT: lighting.glare
+
+M: structure.tunnel
+GT: structure.underpass
+
+M: construction.roadworks
+GT: construction.unchanged
+
+Token: 47ddb280bb36493a9ef55bf79be40087
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 26cf0964316f4064846523b3f9809f3c
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: e61bdd267514428496768b07ecd2571a
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.underpass
+
+Token: 1bece33b6ec84c79b474ca0726196d00
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 8046fcbd9e31476aaa9674ba13930d4b
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.overpass
+
+Token: 18fbecffbcae442cb24da0ec3c815caf
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 612404321ca14e119107402de36263b6
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.overpass
+
+Token: 072d8141c3844dfb9293ee890454a931
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: a19b8130134c433aad7855ac76124e30
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 48b950ce501646659715b57b365a95f3
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.underpass
+
+Token: c73ad56388154f3fb261612e29e7761f
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 099f5eaf96d74a2cbd7f60dc760a050f
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.overpass
+
+Token: 6b7c308d77c04c6fb4862840a121bcd6
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.overpass
+
+Token: 0e7e448172154d07918c24cb9c2a6761
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.overpass
+
+Token: c627741551e64210b358148ccf6e6a31
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 600b45896f69450184b04f78b17485e2
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.underpass
+
+Token: 8fd09778fc5b4add80c4f161bb236f86
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 8a0367047b2146caad20945e6abcf922
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.overpass
+
+Token: c26b6ec194594333b150e0078b535092
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 553aed77df1846b4b8626d773509db72
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.overpass
+
+Token: 1797f997ba704bd6a15c83592a8ff7d5
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.overpass
+
+Token: 1457b8f85db547789f07a12a71bdcc40
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.bridge
+
+Token: 859b14f264224a07a38de92bdbdda6b4
+M: area.rural
+GT: area.residential
+
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 035c713614a247feabe996f40f83a7e6
+M: area.highway
+GT: area.rural
+
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.regular
+GT: structure.underpass
+
+Token: 7d40cab24bbc45dcb47640e6c409a356
+M: lighting.dark
+GT: lighting.illuminated
+
+Token: 18babff0f80e404dbdaa67483da1a949
+M: area.rural
+GT: area.highway
+
+M: lighting.dark
+GT: lighting.illuminated
+
+M: construction.unchanged
+GT: construction.roadworks
+
+Token: 7fdd7f7682d1433680ae38ea593870cb
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.tunnel
+GT: structure.underpass
+
+Token: 073e6bb18188424ea9981e3845df54a6
+M: area.highway
+GT: area.city
+
+M: lighting.illuminated
+GT: lighting.other_lighting
+
+Token: 498319519ddb4641919460b65c65c668
+M: area.highway
+GT: area.city
+
+M: structure.bridge
+GT: structure.overpass
+
+Token: f12d0f56a9154cf7840e0894a921cdbf
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.bridge
+GT: structure.regular
+
+Token: e374e6f45c8c4cb398219cc976886aa2
+M: structure.regular
+GT: structure.overpass
+
+Token: ceda19e518b4456695e7f5d9ccb0d513
+M: weather.clear
+GT: weather.overcast
+
+Token: 884e91c8e5434b8e8dd1da2ae9f1d369
+M: weather.clear
+GT: weather.overcast
+
+Token: e0549077e7b64959adcf02892b3936db
+M: weather.clear
+GT: weather.overcast
+
+M: structure.regular
+GT: structure.bridge
+
+Token: 099953cee12f46ef853cbcf90c42492c
+M: weather.clear
+GT: weather.overcast
+
+Token: dbc486ec6e1343dfb8409323418e5546
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.glare
+
+M: structure.tunnel
+GT: structure.underpass
+
+M: construction.roadworks
+GT: construction.unchanged
+
+Token: 765560192f70438fac8b1a16942019d8
+M: weather.overcast
+GT: weather.rain
+
+M: lighting.dark
+GT: lighting.glare
+
+Token: 18d2cf6775cb47e4aeee01fccc441305
+M: weather.overcast
+GT: weather.rain
+
+M: lighting.dark
+GT: lighting.glare
+
+M: structure.tunnel
+GT: structure.regular
+
+M: construction.roadworks
+GT: construction.unchanged
+
+Token: 4707874d69084d0aab2d25926e86324e
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.glare
+
+M: structure.tunnel
+GT: structure.underpass
+
+M: construction.roadworks
+GT: construction.unchanged
+
+Token: 9a054d6029a24b60973eb27b57d4b5c9
+M: weather.overcast
+GT: weather.rain
+
+M: lighting.dark
+GT: lighting.glare
+
+Token: 1fce7bc8457c413e8ed0f6c1e35c2424
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.glare
+
+Token: d6930309039e4a1ab75ea14cc37f6a2a
+M: lighting.dark
+GT: lighting.glare
+
+Token: b6cbecfa7e7f4e1395ee8bf329d4b317
+M: weather.overcast
+GT: weather.clear
+
+Token: 3de3b297bfa147eaa035246b1b83a713
+M: weather.overcast
+GT: weather.clear
+
+M: lighting.dark
+GT: lighting.illuminated
+
+M: structure.overpass
+GT: structure.regular
+
+Summary of differences by category:
+area: 58
+	- highway: 18
+		- parking: 1
+		- city: 3
+		- rural: 11
+		- residential: 2
+		- terminal: 1
+	- city: 18
+		- terminal: 4
+		- parking: 1
+		- highway: 5
+		- residential: 6
+		- rural: 2
+	- rural: 17
+		- highway: 11
+		- residential: 4
+		- other_area: 1
+		- terminal: 1
+	- terminal: 4
+		- higterminalhway: 1
+		- city: 1
+		- highway: 1
+		- parking: 1
+	- tunnel: 1
+		- highway: 1
+season: 16
+	- autumn: 16
+		- summer: 16
+structure: 231
+	- overpass: 26
+		- regular: 22
+		- underpass: 4
+	- tunnel: 32
+		- regular: 7
+		- underpass: 25
+	- regular: 157
+		- overpass: 57
+		- underpass: 73
+		- bridge: 27
+	- bridge: 16
+		- underpass: 7
+		- regular: 6
+		- overpass: 3
+weather: 213
+	- overcast: 200
+		- rain: 35
+		- clear: 130
+		- snow: 16
+		- other_weather: 3
+		- fog: 12
+		- hail: 4
+	- clear: 12
+		- overcast: 12
+	- rain: 1
+		- snow: 1
+lighting: 416
+	- dark: 409
+		- glare: 33
+		- illuminated: 336
+		- twilight: 40
+	- illuminated: 5
+		- twilight: 3
+		- other_lighting: 2
+	- twilight: 2
+		- illuminated: 2
+construction: 58
+	- roadworks: 38
+		- unchanged: 38
+	- unchanged: 20
+		- roadworks: 20
+daytime: 10
+	- noon: 2
+		- evening: 1
+		- night: 1
+	- morning: 8
+		- noon: 8
