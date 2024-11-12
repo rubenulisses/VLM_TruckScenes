@@ -9,6 +9,7 @@ This repository is dedicated to evaluating ground truth data from the MAN TruckS
 - [Installation](#installation)
 - [Usage](#usage)
 - [Uploading Dataset to Databricks](#uploading-dataset-to-databricks)
+- [Hugging Face Setup](#hugging-face-setup)
 - [References](#references)
 - [Contact](#contact)
 
