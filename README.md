@@ -10,6 +10,7 @@ This repository is dedicated to evaluating ground truth data from the MAN TruckS
 - [Usage](#usage)
 - [Uploading Dataset to Databricks](#uploading-dataset-to-databricks)
 - [References](#references)
+- [Contact](#contact)
 
 ## Project Overview
 
@@ -53,7 +54,7 @@ If you are using Databricks, ensure you configure the Databricks environment wit
 
 1. **Data Loading**: Load and preprocess the TruckScenes dataset.
 2. **Model Initialization**: Initialize the LLaVA model with specific configurations.
-3. **Evaluation**: Run each phase of the evaluation as described in `notebooks/project.ipynb`.
+3. **Evaluation**: Run each phase of the evaluation as described in `project.ipynb`.
 
 ## Uploading Dataset to Databricks
 
@@ -77,10 +78,10 @@ databricks configure --token
 If the dataset is provided in a large ZIP file, split it into smaller chunks to facilitate upload. You can use the following command (for Linux/MacOS):
 
 ```bash
-split -b 100M your_dataset.zip dataset_chunk_
+split -b 500M your_dataset.zip dataset_chunk_
 ```
 
-This command will split `your_dataset.zip` into chunks of 100 MB each, labeled as `dataset_chunk_aa`, `dataset_chunk_ab`, and so on.
+This command will split `your_dataset.zip` into chunks of 500 MB each, labeled as `dataset_chunk_aa`, `dataset_chunk_ab`, and so on.
 
 ### Step 3: Upload to DBFS
 
@@ -94,6 +95,27 @@ databricks fs cp dataset_chunk_ab dbfs:/path/to/destination/ --overwrite
 
 Once all chunks are uploaded, you can combine them within Databricks if needed.
 
+## Hugging Face Setup
+
+To use the pre-trained LLaVA model from Hugging Face, you need to log in with your Hugging Face account and access token.
+
+### Step 1: Get Hugging Face Token
+
+1. Go to [Hugging Face](https://huggingface.co) and log in to your account.
+2. Generate an access token from your [account settings](https://huggingface.co/settings/tokens).
+3. Copy this token for later use.
+
+### Step 2: Log in to Hugging Face in the Notebook
+
+In your notebook, run the following code to log in to Hugging Face:
+
+```python
+from huggingface_hub import login
+
+# Use your Hugging Face token here
+login(token="your_hugging_face_token")
+```
+
 ## References
 
 - [TruckScenes DevKit on GitHub](https://github.com/TUMFTM/truckscenes-devkit?tab=readme-ov-file)
@@ -102,6 +124,9 @@ Once all chunks are uploaded, you can combine them within Databricks if needed.
 - [LLaVA GitHub Repository](https://github.com/haotian-liu/LLaVA)
 - [LLaVA Paper](https://arxiv.org/pdf/2304.08485)
 
----
+## Contact
 
-This repository provides all the necessary tools and scripts to analyze and interpret the MAN TruckScenes dataset using VLMs. Feel free to reach out or submit issues if you encounter any difficulties.
+For any inquiries, feel free to reach out:
+
+- **Email**: [ruben.fonseca@scania.com](mailto:ruben.fonseca@scania.com)
+- **LinkedIn**: [Ruben Fonseca](https://www.linkedin.com/in/ruben-fonseca-56643a170/)
